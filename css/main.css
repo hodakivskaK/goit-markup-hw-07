@@ -174,7 +174,7 @@
 
 .hero__image {
   background-color: #c4c4c4;
-  background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../../images/bg_image.jpg");
+  background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/bg_image.jpg);
   background-repeat: no-repeat;
   background-position: center;
   height: 600px;
@@ -394,7 +394,7 @@
 }
 .checkbox:checked + .checkbox__icon {
   display: inline-block;
-  background-image: url(../../images/icon-check.svg);
+  background-image: url(../images/icon-check.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #2196f3;
